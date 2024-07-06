@@ -1,0 +1,12 @@
+[submodule "Source_Code/Frontend/Dashboard"]
+	path = Source_Code/Frontend/Dashboard
+	url = https://github.com/Mbishu2002/distraDash.git
+[submodule "Source_Code/Backend/RestAPI"]
+	path = Source_Code/Backend/RestAPI
+	url = https://github.com/Mbishu2002/resilix-rest.git
+[submodule "Source_Code/Backend/AIModel"]
+	path = Source_Code/Backend/AIModel
+	url = https://github.com/Mbishu2002/DISTRA.git
+[submodule "Source_Code/Frontend/MobileApp"]
+	path = Source_Code/Frontend/MobileApp
+	url = https://github.com/takohclovert7/resilixApp.git
